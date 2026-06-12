@@ -1,0 +1,9 @@
+node_modules
+dist
+.vercel
+.DS_Store
+*.log
+
+# Confidential — never commit
+PepX_Strategic_Brief.docx
+*.docx
